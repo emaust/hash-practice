@@ -2,6 +2,8 @@
 
 In this exercise you will complete two coding problems using Hash Tables.
 
+**Due Monday March 9th 8pm**
+
 ## Learning Goals
 
 By the end of this exercise you should be able to:
