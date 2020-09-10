@@ -44,6 +44,7 @@ Output: [1,2]
 
 ## Example 2
 
+```
 Input: nums = [1], k = 1
 Output: [1]
 ```
@@ -68,7 +69,6 @@ Determine if a 9x9 Sudoku board is valid. Only the filled cells need to be valid
 Above is a valid Sudoku grid.
 
 The Sudoku board could be partially filled, where empty cells are filled with the character '.'.
-```
 
 **Example 1:**
 
