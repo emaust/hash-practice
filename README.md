@@ -68,10 +68,11 @@ Determine if a 9x9 Sudoku board is valid. Only the filled cells need to be valid
 Above is a valid Sudoku grid.
 
 The Sudoku board could be partially filled, where empty cells are filled with the character '.'.
+```
 
 **Example 1:**
 
-
+```
 Input:
 [
   ["5","3",".",".","7",".",".",".","."],
