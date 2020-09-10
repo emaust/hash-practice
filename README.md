@@ -71,7 +71,7 @@ The Sudoku board could be partially filled, where empty cells are filled with th
 
 **Example 1:**
 
-```
+
 Input:
 [
   ["5","3",".",".","7",".",".",".","."],
